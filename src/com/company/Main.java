@@ -19,5 +19,6 @@ public class Main {
         bedroom.makeBed();
 
         bedroom.getLamp().turnOn();
+        //comment here
     }
 }
